@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#F57C00</color>
+    <color name="colorAccent">#FF5722</color>
+
+    <color name="whiteText">#FFF</color>
+    <color name="grayText">#8b7991</color>
+
+    <color name="disabledBackground">#e1e1e1</color>
+    <color name="blackText">#9E9DA5</color>
+
+    <color name="calc_button_primary_pressed">#D32F2F</color>
+    <color name="calc_button_primary_focused">#D32F2F</color>
+    <color name="calc_button_primary_default">#F44336</color>
+
+    <color name="calc_button_secondary_pressed">#42414F</color>
+    <color name="calc_button_secondary_focused">#42414F</color>
+    <color name="calc_button_secondary_default">#0f0e1c</color>
+
+</resources>
